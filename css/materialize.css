@@ -1983,15 +1983,15 @@ html {
   color: #212121; }
   @media only screen and (min-width: 0) {
     html {
-      font-size: 12px;
+      font-size: 14px;
       line-height: 1.5rem; } }
   @media only screen and (min-width: 768px) {
     html {
-      font-size: 13px;
+      font-size: 15px;
       line-height: 1.4rem; } }
   @media only screen and (min-width: 992px) {
     html {
-      font-size: 14px;
+      font-size: 16px;
       line-height: 1.3rem; } }
 
 h1, h2, h3, h4, h5, h6 {
@@ -2011,17 +2011,17 @@ h1 {
 h2 {
   font-size: 3.21rem;
   line-height: 3.531rem;
-  margin-bottom: 10px; }
+  margin-bottom: 12px; }
 
 h3 {
   font-size: 2.42rem;
   line-height: 2.662rem;
-  margin-bottom: 8px; }
+  margin-bottom: 10px; }
 
 h4 {
   font-size: 1.71rem;
   line-height: 1.881rem;
-  margin-bottom: 4px;
+  margin-bottom: 8px;
   letter-spacing: .05rem; }
 
 h5 {
