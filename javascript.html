@@ -41,16 +41,21 @@
       </code>
     </div>
   </div>
+  
+<!--  Tooltip Section  -->
   <div id="tab2" class="container">
     <div class="row">
       <h2 class="header">Tooltips</h2>
       Tooltips are small, interactive, textual hints for mainly graphical elements. When using icons for actions you can use a tooltip to give people clarification on its function.
       <br>
-      <a class="button tooltipped" title="Testy Tooltips COOL" data-tooltip="bottom"> SHOW me TOOLTIP</a>
+      <a class="tooltipped" title="Testy Tooltips COOL" data-tooltip="bottom"> SHOW me TOOLTIP</a>
       <br>
     </div>
     <div class="row">
-      Add the Tooltipped class to your element
+      Add the Tooltipped class to your element and add either top, bottom, left, right on data-tooltip to control the position
+      <code class="language-markup col small-12">
+        &lt;a class="tooltipped" title="Testy Tooltips COOL" data-tooltip="bottom"> SHOW me TOOLTIP&lt;/a>
+      </code>
       <br>
       Then add this to your jQuery file
       <code class="language-javascript col small-12">
@@ -61,6 +66,7 @@
     </div>
   </div>
   
+<!--  Dropdown Section  -->
   <div id="tab3" class="container">
     <div class="row">
       <h2 class="header">Dropdowns</h2>
