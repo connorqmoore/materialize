@@ -2276,6 +2276,7 @@ ul.tabs {
     padding: 0 20px;
     margin: 0;
     text-transform: uppercase;
+    letter-spacing: 1.1px;
     width: auto; }
     ul.tabs li.tab a {
       color: #5677fc;
@@ -2320,7 +2321,7 @@ ul.tabs {
   -moz-border-radius: 2px;
   border-radius: 2px;
   background-clip: padding-box;
-  letter-spacing: 1.5px; }
+  letter-spacing: 1.4px; }
   .button.raise {
     background-color: #5677fc;
     color: #FFFFFF;
