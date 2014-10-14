@@ -1699,7 +1699,7 @@ li {
     background-color: #2c3940; }
 
 .white {
-  background-color: white; }
+  background-color: #fff; }
 
 .container {
   padding: 0 1em;
@@ -2202,7 +2202,6 @@ body {
   border-bottom: 1px solid #bdbdbd;
   outline: none;
   height: 3em;
-  line-height: 2em;
   width: 100%;
   font-size: 1em;
   padding: 0;
